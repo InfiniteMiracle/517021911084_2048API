@@ -19,4 +19,4 @@ ipynb文件执行方式：
 final.h5是该模型最终使用的文件，使用助教的网络和在线学习方法训练得到的模型
 learn_32.h5,learn_128.h5,learn_128_512_train_online_inhabit.h5是运用模型分层策略和数据分层方法训练的模型，其中第一个和第三个建立在助教模型基础上经过修改得到的。
 第二个是自己写的网络，可以在network_test.ipynb中查看。该模型并未达到高分，因为效果不好，中间终止训练。
-模型文件链接：https://pan.baidu.com/s/1SaoCkuUCAGLOTtYfyKuWmQ
+模型文件链接：https://pan.baidu.com/s/1-LVgR_k1HeXOCvL4WnJ2Jw
